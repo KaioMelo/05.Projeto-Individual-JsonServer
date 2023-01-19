@@ -43,7 +43,7 @@
       "tempo": "1h"
     }
   ],
-  "depilação":[
+  "Depilacao": [
     {
       "id": 1,
       "nome": "Axilas",
@@ -75,7 +75,7 @@
       "tempo": "30min"
     }
   ],
-  "ManicureEPedicure":[
+  "ManicureEPedicure": [
     {
       "id": 1,
       "nome": "Acrygel Colocação",
