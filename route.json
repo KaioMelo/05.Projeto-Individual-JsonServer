@@ -1,0 +1,6 @@
+{
+  "/Cabelo/list": "/Cabelo/",
+  "/Cabelo/create": "/Cabelo/",
+  "/Cabelo/update/:id": "/Cabelo/:id",
+  "/Cabelo/Delete/:id": "/Cabelo/:id"
+}
