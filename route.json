@@ -1,6 +1,6 @@
 {
-  "/Cabelo/list": "/Cabelo/",
-  "/Cabelo/create": "/Cabelo/",
-  "/Cabelo/update/:id": "/Cabelo/:id",
-  "/Cabelo/Delete/:id": "/Cabelo/:id"
+  "GET/Cabelo/list": "/Cabelo/",
+  "POST/Cabelo/create": "/Cabelo/",
+  "PUT/Cabelo/update/:id": "/Cabelo/:id",
+  "DELETE/Cabelo/Delete/:id": "/Cabelo/:id"
 }
